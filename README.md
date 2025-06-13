@@ -2,7 +2,7 @@
 </div>
 
 
-[Unsupervised searches for parity violation](https://arxiv.org/abs/2410.16030): [PV code](https://github.com/sh2099/parity-violation)
+[Parity Detection code](https://github.com/sh2099/parity-violation) for our paper [Unsupervised searches for parity violation](https://arxiv.org/abs/2410.16030)
 
 
 ## Personal Projects
